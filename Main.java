@@ -1,6 +1,3 @@
-//Twsha Vyass
-//22070126122
-//AIML B2
 
 /*
 4. Write a menu-driven Java Program for the following: There are 52 cards in
